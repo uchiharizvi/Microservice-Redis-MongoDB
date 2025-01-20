@@ -3,10 +3,10 @@ server:
 mongo:
   data:
     app: FlickStreamCluster01
-    user: kavish.r
-    pass: 5okwJRZDoKcNdXQn
-#    user: kavish2
-#    pass: Pirateking%401
+#    user: kavish.r
+#    pass: 5okwJRZDoKcNdXQn
+    user: kavish2
+    pass: 1234
     cluster: flickstreamcluster01.6iqkd
     database:
       name: flickstream_user
